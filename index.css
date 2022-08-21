@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+#box {
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
+
+#t1 {
+    display: inline-block;
+    margin: 10px 50px;
+}
+
+#t2 {
+    display: inline-block;
+    margin: 10px 50px;
+}
+
+#btn {
+    display: block;
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    outline-style: none;
+}
+
+#combtn {
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
+
+
+#cont2{
+    display: none;
+}
+
+#pbox {
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
+
+.p {
+    display: inline-block;
+    border: 1px solid black;
+    outline: none;
+    width: 240px;
+    height: 154px;
+    margin: 10px 50px;
+}
+
+#btn {
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
